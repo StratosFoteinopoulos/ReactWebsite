@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactWebsite/static/css/main.4ee88b9d.css",
-    "main.js": "/ReactWebsite/static/js/main.ad6044ff.js",
+    "main.js": "/ReactWebsite/static/js/main.cdb4b98b.js",
     "static/js/526.fc33b0b0.chunk.js": "/ReactWebsite/static/js/526.fc33b0b0.chunk.js",
     "static/js/232.6a6dc46a.chunk.js": "/ReactWebsite/static/js/232.6a6dc46a.chunk.js",
     "static/media/logo.svg": "/ReactWebsite/static/media/logo.e258c777d2cec1e64b64937202f1e8ec.svg",
@@ -10,12 +10,12 @@
     "static/media/icon-laptop.svg": "/ReactWebsite/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
     "static/media/icon-youtube.svg": "/ReactWebsite/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
     "main.4ee88b9d.css.map": "/ReactWebsite/static/css/main.4ee88b9d.css.map",
-    "main.ad6044ff.js.map": "/ReactWebsite/static/js/main.ad6044ff.js.map",
+    "main.cdb4b98b.js.map": "/ReactWebsite/static/js/main.cdb4b98b.js.map",
     "526.fc33b0b0.chunk.js.map": "/ReactWebsite/static/js/526.fc33b0b0.chunk.js.map",
     "232.6a6dc46a.chunk.js.map": "/ReactWebsite/static/js/232.6a6dc46a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ee88b9d.css",
-    "static/js/main.ad6044ff.js"
+    "static/js/main.cdb4b98b.js"
   ]
 }
