@@ -23,30 +23,31 @@ export default function App() {
             <a href="/">Home</a>
           </li>
           <li>
-            <a href="/">Download</a>
+            <a href="/">Skills</a>
           </li>
           <li>
-            <a href="/">App</a>
+            <a href="/">Apps</a>
           </li>
           <li>
-            <a href="/">Login</a>
+            <a href="/">Contact</a>
           </li>
           <li>
             <button>Get Started</button>
           </li>
         </Menu>
-        <h1>Collaborate with People</h1>
+        <h1>Stratos Foteinopoulos</h1>
         <p>
-          Bring your team together and build your community by using our
-          cross-platform unlimited media files. A world of topics is waiting for
-          you Joi the private beta.
+        Full stack Developer with multiple skills including multitasking,
+        organization, and collaboration. Motivated, enthusiastic, eager to
+        learn and great team player.
         </p>
         <button>
-          <img src={IconLaptop} alt="Download" /> Download for Mac
+          <img src={IconLaptop} alt="Download" /> Download Resume
         </button>
       </Content>
       <Social>
         <div />
+        <a class="twitter" href="https://twitter.com/StratosFoteino"></a>
         <img src={IconTwitter} alt="Twitter" />
         <img src={IconYouTube} alt="Youtube" />
       </Social>
@@ -231,6 +232,27 @@ const Social = styled.div`
       #1306dd 65.86%,
       #aa0eb2 100%
     );
+  }
+
+  a{
+    .youtube{
+      background: url(images/icon-youtube.svg) no-repeat 6px center;
+      width: 100px;
+      height: 100px;
+      display: block;
+    }
+
+    .twitter{
+      background: url(images/icon-twitter.svg) no-repeat 6px center;
+      width: 100px;
+      height: 100px;
+      display: block;
+    }
+
+    :hover{
+      cursor: pointer;
+    }
+    
   }
 
   @media (max-width: 1024px) {
