@@ -2,9 +2,10 @@ import Spline from "@splinetool/react-spline";
 import styled from "styled-components";
 
 import Logo from "./images/logo.svg";
-import IconTwitter from "./images/icon-twitter.svg";
-import IconYouTube from "./images/icon-youtube.svg";
+import IconTwitter from "./images/icon-twitter2.svg";
 import IconLaptop from "./images/icon-laptop.svg";
+import IconLinkedin from "./images/icon-linkedin2.svg";
+import IconGithub from "./images/icon-github2.svg";
 
 export default function App() {
   return (
@@ -47,9 +48,9 @@ export default function App() {
       </Content>
       <Social>
         <div />
-        <a class="twitter" href="https://twitter.com/StratosFoteino"></a>
-        <img src={IconTwitter} alt="Twitter" />
-        <img src={IconYouTube} alt="Youtube" />
+        <a href="https://twitter.com/StratosFoteino"><img src={IconTwitter} alt="twitter"></img></a>
+        <a href="https://www.linkedin.com/in/stratos-foteinopoulos-1800ab131/"><img src={IconLinkedin} alt="linkedin"></img></a>
+        <a href="https://github.com/StratosFoteinopoulos"><img src={IconGithub} alt="github"></img></a>
       </Social>
     </Wrapper>
   );
@@ -235,19 +236,6 @@ const Social = styled.div`
   }
 
   a{
-    .youtube{
-      background: url(images/icon-youtube.svg) no-repeat 6px center;
-      width: 100px;
-      height: 100px;
-      display: block;
-    }
-
-    .twitter{
-      background: url(images/icon-twitter.svg) no-repeat 6px center;
-      width: 100px;
-      height: 100px;
-      display: block;
-    }
 
     :hover{
       cursor: pointer;
