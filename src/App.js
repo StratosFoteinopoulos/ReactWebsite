@@ -161,6 +161,15 @@ const Content = styled.div`
       border: 1px solid rgba(155, 155, 155, 0.8);
       transform: translateY(-3px);
     }
+
+    
+    a:link {
+        text-decoration: underline;
+    }
+    a:hover {
+        text-decoration: none;
+    }
+    }
   }
 
   h1,
