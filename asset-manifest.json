@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/ReactWebsite/static/css/main.4ee88b9d.css",
-    "main.js": "/ReactWebsite/static/js/main.cdb4b98b.js",
+    "main.js": "/ReactWebsite/static/js/main.8361fb2b.js",
     "static/js/526.fc33b0b0.chunk.js": "/ReactWebsite/static/js/526.fc33b0b0.chunk.js",
     "static/js/232.6a6dc46a.chunk.js": "/ReactWebsite/static/js/232.6a6dc46a.chunk.js",
+    "static/media/icon-github2.svg": "/ReactWebsite/static/media/icon-github2.ed55a3ac33386aa1debb5d47cc815112.svg",
     "static/media/logo.svg": "/ReactWebsite/static/media/logo.e258c777d2cec1e64b64937202f1e8ec.svg",
-    "static/media/icon-twitter.svg": "/ReactWebsite/static/media/icon-twitter.1f8af10d7d0f55fb6a77d5e462fcba76.svg",
+    "static/media/icon-twitter2.svg": "/ReactWebsite/static/media/icon-twitter2.8b178ca78afa8f7e3f2e3be6b4079712.svg",
     "index.html": "/ReactWebsite/index.html",
     "static/media/icon-laptop.svg": "/ReactWebsite/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
-    "static/media/icon-youtube.svg": "/ReactWebsite/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
+    "static/media/icon-linkedin2.svg": "/ReactWebsite/static/media/icon-linkedin2.4c425dd2bb83b78fa076063e968011d8.svg",
     "main.4ee88b9d.css.map": "/ReactWebsite/static/css/main.4ee88b9d.css.map",
-    "main.cdb4b98b.js.map": "/ReactWebsite/static/js/main.cdb4b98b.js.map",
+    "main.8361fb2b.js.map": "/ReactWebsite/static/js/main.8361fb2b.js.map",
     "526.fc33b0b0.chunk.js.map": "/ReactWebsite/static/js/526.fc33b0b0.chunk.js.map",
     "232.6a6dc46a.chunk.js.map": "/ReactWebsite/static/js/232.6a6dc46a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ee88b9d.css",
-    "static/js/main.cdb4b98b.js"
+    "static/js/main.8361fb2b.js"
   ]
 }
