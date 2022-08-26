@@ -6,6 +6,7 @@ import IconTwitter from "./images/icon-twitter2.svg";
 import IconLaptop from "./images/icon-laptop.svg";
 import IconLinkedin from "./images/icon-linkedin2.svg";
 import IconGithub from "./images/icon-github2.svg";
+import Resume from "./Resume/STRATOS FOTEINOPOULOS RESUME.pdf";
 
 export default function App() {
   return (
@@ -43,7 +44,7 @@ export default function App() {
         learn and great team player.
         </p>
         <button>
-        <a href="Resume/STRATOS FOTEINOPOULOS RESUME.pdf" target="_blank"><img src={IconLaptop} alt="Download" /> Download Resume</a>
+        <a href={Resume} download target="_blank" rel="noreferrer"><img src={IconLaptop} alt="Download" /> Download Resume</a>
         </button>
       </Content>
       <Social>
@@ -163,11 +164,17 @@ const Content = styled.div`
     }
 
     
-    a:link {
-        text-decoration: underline;
-    }
-    a:hover {
+
+    a{
         text-decoration: none;
+        color:white;
+        font-size: 16px;
+        font-weight: 600;
+        display: flex;
+        gap: 12px;
+        justify-content: center;
+        align-items: center;
+        
     }
     }
   }
