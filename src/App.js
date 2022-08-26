@@ -21,16 +21,16 @@ export default function App() {
             <img src={Logo} alt="Logo" />
           </li>
           <li>
-            <a href="/">Home</a>
+            <a href="/ReactWebsite">Home</a>
           </li>
           <li>
-            <a href="/">Skills</a>
+            <a href="/ReactWebsite">Skills</a>
           </li>
           <li>
-            <a href="/">Apps</a>
+            <a href="/ReactWebsite">Apps</a>
           </li>
           <li>
-            <a href="/">Contact</a>
+            <a href="/ReactWebsite">Contact</a>
           </li>
           <li>
             <button>Get Started</button>
