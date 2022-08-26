@@ -43,7 +43,7 @@ export default function App() {
         learn and great team player.
         </p>
         <button>
-          <img src={IconLaptop} alt="Download" /> Download Resume
+        <a href="Resume/STRATOS FOTEINOPOULOS RESUME.pdf" target="_blank"><img src={IconLaptop} alt="Download" /> Download Resume</a>
         </button>
       </Content>
       <Social>
